@@ -269,7 +269,7 @@ const OrganizationSetupPage = () => {
                         </Alert>
                     )}
                     <Stack sx={{ gap: 1 }}>
-                        <Typography variant='h1'>Setup Account</Typography>
+                        <Typography variant='h1'>Setup Guddo Account</Typography>
                     </Stack>
                     {requiresAuthentication && (
                         <Alert severity='info'>
